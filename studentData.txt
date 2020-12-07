@@ -1,0 +1,61 @@
+10
+1
+Jane
+Freshman
+Engineering
+3.500000
+2
+2
+John Smith
+Sophomore
+Computer Science
+4.000000
+3
+3
+Tyler
+Senior
+Science
+2.700000
+1
+4
+Peter
+Junior
+Forensics
+3.600000
+3
+5
+Bobby
+Freshman
+Theater
+3.250000
+1
+6
+Sarah
+Graduate
+Environmental Science
+3.900000
+1
+7
+Sarah
+Graduate
+Environmental Science
+3.900000
+2
+8
+Sarah
+Graduate
+Environmental Science
+3.900000
+2
+9
+Cooper
+4
+History
+3.300000
+3
+123
+Logan
+Sophomore
+Computer Science
+3.700000
+1
